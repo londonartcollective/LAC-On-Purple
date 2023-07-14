@@ -2,9 +2,9 @@ html, body {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background: url("assets/poster.jpg");
+  background: url("assets/poster2.0.jpg");
   background-repeat: no-repeat;
-  background-size: 490px 680px;
+  background-size: 1125px 1910px;
   background-position: 0 0;
   background-attachment: fixed;
 }
@@ -12,19 +12,15 @@ html, body {
 
 canvas {
   display: inline-block;
-  transform: translate(95px, 0px);
+  transform: translate(180px, 0px);
   margin: 0 auto;
   text-align: center;
-  padding-top: 100px;
-  /* position: fixed;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%); */
+  padding-top: 190px;
 }
 
 video {
   display: inline-block;
-  transform: translate(95px, 0px);
+  transform: translate(180px, 0px);
   margin: 0 auto;
   text-align: left;
 }
