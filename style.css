@@ -1,0 +1,32 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: url("assets/poster.jpg");
+  background-repeat: no-repeat;
+  background-size: 490px 680px;
+  background-position: 0 0;
+  background-attachment: fixed;
+}
+
+
+canvas {
+  display: inline-block;
+  transform: translate(95px, 0px);
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 100px;
+  /* position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); */
+}
+
+video {
+  display: inline-block;
+  transform: translate(95px, 0px);
+  margin: 0 auto;
+  text-align: left;
+}
+
+
