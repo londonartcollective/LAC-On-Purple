@@ -4,7 +4,7 @@ html, body {
   overflow: hidden;
   background: url("assets/poster2.0.jpg");
   background-repeat: no-repeat;
-  background-size: 1000px 1680px;
+  background-size: 1020px 1680px;
   background-position: 0 0;
   background-attachment: scroll;
 }
@@ -12,7 +12,7 @@ html, body {
 
 canvas {
   display: inline-block;
-  transform: translate(180px, 0px);
+  transform: translate(190px, 0px);
   margin: 0 auto;
   text-align: center;
   padding-top: 190px;
@@ -20,7 +20,7 @@ canvas {
 
 video {
   display: inline-block;
-  transform: translate(180px, 0px);
+  transform: translate(190px, 0px);
   margin: 0 auto;
   text-align: left;
 }
