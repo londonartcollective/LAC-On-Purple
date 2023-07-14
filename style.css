@@ -20,7 +20,8 @@ canvas {
 
 video {
   display: inline-block;
-  transform: translate(190px, 0px);
+  opacity: 0;
+  transform: translate(0px, 0px);
   margin: 0 auto;
   text-align: left;
 }
